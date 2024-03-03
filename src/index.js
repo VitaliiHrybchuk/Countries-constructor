@@ -21,4 +21,4 @@ console.log(`${key}: ${countryObject[key]}`);
   }
 }
 funcCountry(Ukraine);
-// terminal commit
+  
